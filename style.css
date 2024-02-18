@@ -253,7 +253,7 @@ nav a{
     width: 100%;
     padding: 5vw 0;
     display: grid;
-    grid-template-columns: 21% 20% 20% 20%;
+    grid-template-columns: 20% 20% 20% 20%;
     grid-template-rows:  33vh 33vh 33vh 33vh 33vh ;
     justify-content: center;
     gap: 3vw;
